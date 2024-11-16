@@ -1,4 +1,4 @@
-# blinkit_Dashboard_Project
+# Blinkit_Dashboard_Project
 
 # Overview
 
