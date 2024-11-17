@@ -12,7 +12,7 @@ This project involves comprehensive analysis of blinkit's data to extract action
 # Other Analysis
   - Total Sales by fat content
   - Total sales by Item type
-  - Fat Content by outlet for Total sales
+  - Fat Content by Outlet for Total Sales
   - Total Sales by Outlet Establishment
   - Sales by Outlet Size
   - Sales by Outlet Location
