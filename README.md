@@ -9,3 +9,11 @@ This project involves comprehensive analysis of blinkit's data to extract action
  - Average Sales
  - Number of items
  - Average Rating
+# Other Analysis
+  - Total Sales by fat content
+  - Total sales by Item type
+  - Fat Content by outlet for Total sales
+  - Total Sales by Outlet Establishment
+  - Sales by Outlet Size
+  - Sales by Outlet Location
+  - All metrics by Outlet type
