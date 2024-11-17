@@ -21,3 +21,5 @@ This project involves comprehensive analysis of blinkit's data to extract action
   - Data Sources: Kaggle
   - Data Cleaning: MS Excel
   - Visualization: Power BI
+# Contact
+Linkdin : www.linkedin.com/in/laxmipriya-moharana-7b0535260
