@@ -17,3 +17,7 @@ This project involves comprehensive analysis of blinkit's data to extract action
   - Sales by Outlet Size
   - Sales by Outlet Location
   - All metrics by Outlet type
+# Technologies Used
+  - Data Sources: Kaggle
+  - Data Cleaning: MS Excel
+  - Visualization: Power BI
